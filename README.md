@@ -25,3 +25,9 @@ _Screenshot of the user interface, including document upload, chat interface, an
 - **Vector Database**: FAISS for fast, semantic search of document chunks.
 - **Language Model (LLM)**: Integration with Gemini LLM for natural language processing.
 - **State Management**: Provider package for efficient state management in Flutter.
+  
+## Usage
+- **Document Upload**: Users can upload PDF or DOCX files from the main screen.
+- **Document Summarization**: Once uploaded, the app generates a summary of the document, which is viewable from the summary panel.
+- **Question-Answering**: Users can ask questions about the document content. The app retrieves relevant chunks and provides contextually accurate answers.
+- **Chat History**: Users can view past conversations and retrieve previously generated answers.
