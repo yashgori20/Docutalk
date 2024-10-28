@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "573895903426",
+    "project_id": "doctalk-55afb",
+    "storage_bucket": "doctalk-55afb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573895903426:android:fb2245fcb3fb41ee54535b",
+        "android_client_info": {
+          "package_name": "com.example.godrage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtGPsEEDIEUZH26o8C9QKs0OxP0xj-1Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
