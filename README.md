@@ -4,11 +4,13 @@
 DocuTalk is an AI-powered conversational interface that allows users to interact with large, unstructured documents. By leveraging natural language processing (NLP) models and semantic search, users can upload documents, ask questions, receive context-aware responses, and access automatic document summaries. The app provides a seamless experience across web, Android, and iOS platforms.
 
 ## Architecture
-![Architecture Diagram](architectureimage.png)  
+![image](https://github.com/user-attachments/assets/c0c48be0-4a7f-4e4b-8ab6-93268c13f122)
+
 _Structure showing the integration of the frontend, backend, and vector database._
 
 ## User Interface
-![User Interface](interfaceimage.png)  
+![image](https://github.com/user-attachments/assets/91bf2dd2-5bba-42c1-928a-b40c0b6f5fb9)
+ 
 _Screenshot of the user interface, including document upload, chat interface, and summary panel._
 
 ## Features
